@@ -21,3 +21,7 @@ li {
 body{
   background-color: rgb(177, 155, 30);
 }
+
+.center{
+  margin: auto;
+}
