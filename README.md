@@ -16,6 +16,7 @@ To install neccessary dependencies, run the following command:
 
     npm i
     
+<img width="1300" alt="Screen Shot 2020-04-04 at 5 34 36 PM" src="https://user-images.githubusercontent.com/34842627/78464158-b3b13e00-769a-11ea-81f5-26d70dc3e765.png">
 
 ## Questions
 
