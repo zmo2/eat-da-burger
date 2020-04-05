@@ -19,9 +19,22 @@ li {
 }
 
 body{
-  background-color: rgb(177, 155, 30);
+  background-color: rgb(231, 194, 138);
 }
 
 .center{
   margin: auto;
+  text-align: center;
+  align-items: center;
 }
+
+ul{
+  list-style: none;
+}
+
+li{
+  background-color:  rgb(231, 194, 138);
+}
+/* .container{
+  background-color: thistle;
+} */
